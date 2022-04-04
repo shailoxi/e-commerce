@@ -10,3 +10,5 @@ Trello : https://trello.com/b/LZx7UeZ5/site-e-commerce
 Figma : https://www.figma.com/file/spiXkca4IseCOwxLGmZwPJ/Untitled?node-id=2%3A4
 
 Diagrammes d'activité : https://app.creately.com/d/ffBtgmZVTRU/edit
+
+Diagrammes d'activité : (dans les dossiers ci joint)
