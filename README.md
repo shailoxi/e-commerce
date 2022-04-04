@@ -11,4 +11,6 @@ Figma : https://www.figma.com/file/spiXkca4IseCOwxLGmZwPJ/Untitled?node-id=2%3A4
 
 Diagrammes d'activité : https://app.creately.com/d/ffBtgmZVTRU/edit
 
-Diagrammes d'activité : (dans les dossiers ci joint)
+Diagrammes de classes : (dans les dossiers ci joint)
+
+Use case : (dans les dossiers ci joint)
